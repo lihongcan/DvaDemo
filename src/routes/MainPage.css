@@ -1,4 +1,20 @@
-.menu{
-	 margin: auto;
-    width: 60%;
+.div1{
+	width:90%;
+	background-color:#E9ECEF;
+	height:600px;
+	margin:auto;
+
+}
+
+.imgdiv{
+	background:url(../assets/workevn.jpg); 
+	width:90%;
+	height:500px;
+	margin:auto;
+}
+.div3{
+	width:90%;
+	background-color:#1F232E;
+	height:300px;
+	margin:auto;
 }
